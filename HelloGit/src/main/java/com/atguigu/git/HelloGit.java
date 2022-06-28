@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("Hello Git");
         System.out.println("Hello version22");
         System.out.println("Hello version33");
+        System.out.println("更新分支");
     }
 }
